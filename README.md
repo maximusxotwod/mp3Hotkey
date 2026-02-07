@@ -1,4 +1,3 @@
-# mp3Hotkey
 # Requirements
 
 - Windows 10 or 11 (32-bit or 64-bit)
